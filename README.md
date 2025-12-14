@@ -56,14 +56,17 @@ Durante o desenvolvimento, foram utilizados os seguintes pilares da orientação
 
 ---
 
-## 📷 Screenshots
-
-*(Se possível, coloque aqui prints da tela de busca avançada ou do formulário de cadastro)*
-
----
-
 ## 🔧 Como Executar
 
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+
+2. Abra o projeto na sua IDE de preferência.
+
+3. Certifique ter pelo menos o JDK 20 instalado
+
+4. Execute a classe principal Main.
+
+✒️ Autor
+Vinicius Souza Dias - Desenvolvimento e Refatoração
